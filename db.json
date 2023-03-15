@@ -60,5 +60,12 @@
       "age": 20,
       "email": "cnorssister9@mayoclinic.com"
     }
+  ],
+  "products": [
+    { "id": 55555, "name": "shampoo" },
+    {
+      "id": 66666,
+      "name": "oats"
+    }
   ]
 }
