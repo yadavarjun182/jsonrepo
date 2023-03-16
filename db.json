@@ -16,6 +16,16 @@
       "capacity": 3,
       "cost": 4000,
       "booked": false
+    },  {
+      "id": 2,
+      "category": "family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "ac",
+      "bed_type": "single",
+      "no_of_persons": 1,
+      "capacity": 2,
+      "cost": 2000,
+      "booked": false
     }
   ]
 }
